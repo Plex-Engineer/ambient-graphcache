@@ -1,0 +1,9 @@
+{
+  "mainnet": {
+    "chain_id": 7700,
+    "rpc": "https://node-f3495086-1-canto.ansybl.io/evm_rpc/",
+    "subgraph": "http://159.203.175.107:8000/subgraphs/name/ambient-graph",
+    "query_contract": "0xfDf5Ed2D354e05cF292808CF94Bd5c972D842D09",
+    "knockout_tick_width": 64
+  }
+}
